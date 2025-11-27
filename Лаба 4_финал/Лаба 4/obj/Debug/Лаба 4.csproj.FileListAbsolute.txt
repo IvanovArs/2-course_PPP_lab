@@ -1,0 +1,10 @@
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\bin\Debug\Лаба 4.exe.config
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\bin\Debug\Лаба 4.exe
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\bin\Debug\Лаба 4.pdb
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба 4.csproj.AssemblyReference.cache
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба_4.Properties.Resources.resources
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба 4.csproj.GenerateResource.cache
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба 4.exe
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба 4.pdb
+C:\Users\ivano\Documents\Visual Studio 2022\2 курс\Лабы 3, 4\Лаба 4_финал\Лаба 4\obj\Debug\Лаба_4.Form1.resources
